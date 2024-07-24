@@ -2,4 +2,4 @@ import streamlit as st
 
 st.write('Hello Streamlit!')
 
-st.write('김효진')
+st.markdown('**김효진**')
